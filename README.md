@@ -27,7 +27,7 @@ Each task includes a title (without numbers) and a deadline.
 - User interaction via command-line interface
 
 ## 📁 File
-- `trial_miniproject.py` – Main source code
+- `main.py` – Main source code
 
 ## 🚀 How to Run
 Make sure you have Python installed. Then run:
