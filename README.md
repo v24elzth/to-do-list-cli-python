@@ -1,5 +1,3 @@
-# to-do-list-cli-python
-Simple command-line based To-Do List in Python
 # 📝 To-Do List CLI – Python Project
 
 This is a simple command-line based To-Do List application created as a mid-term mini project for the Data Structures course.
