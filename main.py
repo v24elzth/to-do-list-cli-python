@@ -1,13 +1,6 @@
 '''
 Mini Project Mid-Term 1
 To Do List
-
-Kelompok 5 :
-- Elizabeth     242300102
-- Gillchrist    242406251
-- Serafina      242302433
-- Yeria         242400383
-
 '''
 
 def view_tasks(tasks):
