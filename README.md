@@ -33,4 +33,5 @@ Each task includes a title (without numbers) and a deadline.
 Make sure you have Python installed. Then run:
 
 ```bash
-python trial_miniproject.py
+python main.py
+
