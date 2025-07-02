@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="To Do List CLI Banner" width="100%">
+</p>
+
 # 📝 To-Do List CLI – Python Project
 
 This is a simple command-line based To-Do List application created as a mid-term mini project for the Data Structures course.
